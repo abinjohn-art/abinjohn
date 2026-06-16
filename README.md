@@ -1,7 +1,7 @@
 # Hi, I'm Abin John 👋
 
 ## About Me
-- 🎓B.Tech Student
+- B.Tech Student
 - Learning GitHub, Web Development, and Programming
 -  Currently improving my coding skills
 -  Interested in internships and software development
